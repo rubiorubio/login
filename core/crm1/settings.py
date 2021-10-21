@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'crm1.wsgi.application'
+#WSGI_APPLICATION = 'crm1.wsgi.application'
 
 
 # Database
