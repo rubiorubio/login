@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 django = "*"
 gunicorn = "*"
+django-filter = "*"
 
 [dev-packages]
 black = "==21.9b0"
